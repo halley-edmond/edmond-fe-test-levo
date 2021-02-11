@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6bc7195.chunk.css",
-    "main.js": "/static/js/main.2c5eca21.chunk.js",
-    "main.js.map": "/static/js/main.2c5eca21.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.05d65ca7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.05d65ca7.js.map",
-    "static/css/2.658248ec.chunk.css": "/static/css/2.658248ec.chunk.css",
-    "static/js/2.b9a76fdb.chunk.js": "/static/js/2.b9a76fdb.chunk.js",
-    "static/js/2.b9a76fdb.chunk.js.map": "/static/js/2.b9a76fdb.chunk.js.map",
-    "static/js/3.0030d3eb.chunk.js": "/static/js/3.0030d3eb.chunk.js",
-    "static/js/3.0030d3eb.chunk.js.map": "/static/js/3.0030d3eb.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.658248ec.chunk.css.map": "/static/css/2.658248ec.chunk.css.map",
-    "static/css/main.c6bc7195.chunk.css.map": "/static/css/main.c6bc7195.chunk.css.map",
-    "static/js/2.b9a76fdb.chunk.js.LICENSE.txt": "/static/js/2.b9a76fdb.chunk.js.LICENSE.txt"
+    "main.css": "/edmond-fe-test-levo/static/css/main.c6bc7195.chunk.css",
+    "main.js": "/edmond-fe-test-levo/static/js/main.2c5eca21.chunk.js",
+    "main.js.map": "/edmond-fe-test-levo/static/js/main.2c5eca21.chunk.js.map",
+    "runtime-main.js": "/edmond-fe-test-levo/static/js/runtime-main.878250fc.js",
+    "runtime-main.js.map": "/edmond-fe-test-levo/static/js/runtime-main.878250fc.js.map",
+    "static/css/2.658248ec.chunk.css": "/edmond-fe-test-levo/static/css/2.658248ec.chunk.css",
+    "static/js/2.113cde54.chunk.js": "/edmond-fe-test-levo/static/js/2.113cde54.chunk.js",
+    "static/js/2.113cde54.chunk.js.map": "/edmond-fe-test-levo/static/js/2.113cde54.chunk.js.map",
+    "static/js/3.0030d3eb.chunk.js": "/edmond-fe-test-levo/static/js/3.0030d3eb.chunk.js",
+    "static/js/3.0030d3eb.chunk.js.map": "/edmond-fe-test-levo/static/js/3.0030d3eb.chunk.js.map",
+    "index.html": "/edmond-fe-test-levo/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/edmond-fe-test-levo/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.c6bc7195.chunk.css.map": "/edmond-fe-test-levo/static/css/main.c6bc7195.chunk.css.map",
+    "static/js/2.113cde54.chunk.js.LICENSE.txt": "/edmond-fe-test-levo/static/js/2.113cde54.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.05d65ca7.js",
+    "static/js/runtime-main.878250fc.js",
     "static/css/2.658248ec.chunk.css",
-    "static/js/2.b9a76fdb.chunk.js",
+    "static/js/2.113cde54.chunk.js",
     "static/css/main.c6bc7195.chunk.css",
     "static/js/main.2c5eca21.chunk.js"
   ]
